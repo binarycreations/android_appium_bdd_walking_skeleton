@@ -1,0 +1,56 @@
+# OS Generated files #
+######################
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+Icon?
+ehthumbs.db
+Thumbs.db
+
+# Editor files #
+################
+*.tmp
+*.bak
+*.swp
+*~.nib
+
+# Compiled source #
+###################
+*.com
+*.class
+*.dll
+*.o
+*.so
+*.log
+
+# Locally stored "Eclipse launch configurations" #
+##################################################
+*.launch
+
+# CDT-specific #
+################
+.cproject
+
+# PDT-specific #
+################
+.buildpath
+
+# Project related files #
+#########################
+antlibs/**
+libs/**
+bin/**
+gen/**
+tmp/**
+build/**
+test/tmp
+build.properties
+local.properties
+.settings/
+.metadata
+.project
+.classpath
+.loadpath
+.ant-targets-build.xml
