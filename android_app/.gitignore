@@ -39,6 +39,9 @@ Thumbs.db
 
 # Project related files #
 #########################
+libs/**
+bin/**
+gen/**
 build/**
 build.properties
 local.properties
@@ -52,4 +55,4 @@ gradle.properties
 .classpath
 .loadpath
 .ant-targets-build.xml
-*.iml
+track.iml

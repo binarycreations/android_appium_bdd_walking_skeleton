@@ -39,6 +39,7 @@ Thumbs.db
 
 # Project related files #
 #########################
+bin/**
 build/**
 build.properties
 local.properties
