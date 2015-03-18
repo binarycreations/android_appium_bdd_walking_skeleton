@@ -25,15 +25,14 @@ A simple template project with sensible and useful defaults to quickly get start
 1. Clone the repo
 2. Check it works
 
-
-    // Start the appium server on port 8080
-    appium -p 8080
+    // Start the appium server on port 8080    
+    appium -p 8080    
     gradle build cucumber
 
 Or even better use the gradle wrapper
 
     gradlew build cucumber
 
-Then check the generated reports 
-3. Remove the test examples and change the manifest
-4. Go forth and develop!
+Then check the generated reports  
+3. Remove the test examples and change the manifest  
+4. Go forth and develop!  
