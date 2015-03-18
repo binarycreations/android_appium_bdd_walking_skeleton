@@ -17,6 +17,7 @@ A simple template project with sensible and useful defaults to quickly get start
 - Gradle
 - Java 1.6+
 - Android Studio (0.8.2+)
+- Node.js
 - Appium (make sure you can run the appium server)
 
 ### Setup
@@ -25,8 +26,8 @@ A simple template project with sensible and useful defaults to quickly get start
 2. Check it works
 
 
-    // Start the appium server on port 8080    
-    appium -p 8080    
+    // Start the appium server on port 8080
+    appium -p 8080
     gradle build cucumber
 
 Or even better use the gradle wrapper
@@ -35,4 +36,4 @@ Or even better use the gradle wrapper
 
 Then check the generated reports 
 3. Remove the test examples and change the manifest
-4. Go forth an develop!
+4. Go forth and develop!
